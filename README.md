@@ -1,1 +1,2 @@
-# You Stone -- Professional Customized Counter-top Exporter
+# You Stone
+Professional Customized Counter-top Exporter
