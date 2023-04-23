@@ -1,4 +1,10 @@
-
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?c396bb2a4282a2d43ed57dfd33ca7021";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
 $(document).ready(function(){
       //返回顶部
       $("#gototop").click(function(){
